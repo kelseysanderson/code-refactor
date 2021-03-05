@@ -17,7 +17,5 @@ First homework assignment for coding bootcamp.
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/screencapture.jpeg)
 
 ## Link to deployed application
+[Link to see deployed application](https://kelseysanderson.github.io/code-refactor/)
 
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
