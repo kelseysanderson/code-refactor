@@ -14,7 +14,7 @@ First homework assignment for coding bootcamp.
 
 ## Screenshot of Webpage
 
-Click here to see the: [Horiseon Webpage Screencapture](./Assets/images/screencapture.jpeg)
+Click here to see the: [Horiseon Webpage Screencapture](./assets/images/screencapture.jpeg)
 
 ## Link to deployed application
 [Link to see deployed application](https://kelseysanderson.github.io/code-refactor/)
